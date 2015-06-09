@@ -1,0 +1,14 @@
+.row{
+    
+}
+
+.row div{
+    display:inline-block;
+}
+
+.spot{
+    height:50px;
+    width:50px;
+    border: 2px solid black;
+   vertical-align: top
+}
